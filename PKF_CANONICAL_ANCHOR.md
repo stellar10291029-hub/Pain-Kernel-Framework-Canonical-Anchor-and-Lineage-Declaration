@@ -90,3 +90,8 @@ This document establishes positional clarity and does **not** restrict scholarly
 This canonical anchor exists to preserve **conceptual integrity, authorship clarity, and interpretive stability** of the Pain Kernel Framework across disciplinary, institutional, and technological contexts.
 
 It ensures that the framework remains identifiable as a coherent body of work while remaining open to responsible scholarly engagement and future evolution.
+
+Correspondence: pkf.eunyoung@gmail.com
+This document serves as a canonical reference.
+Correspondence is limited to scholarly clarification or citation-related matters.
+
